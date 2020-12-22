@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently working on the Advent of Code 2020 and trying to learn Python
+- I’m currently trying to learn Python
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiTama-max&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
