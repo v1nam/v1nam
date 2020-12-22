@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- I’m currently trying to learn Python
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saiTama-max&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
